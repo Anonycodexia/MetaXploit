@@ -75,7 +75,5 @@ echo
 center "*"
 echo -e "\033[32m Installation complete. \n Launch metasploit by executing: msfconsole\033[0m"
 center "*"
-
-rm -rf $HOME/metaxploit.sh
-
 echo "Please Subscribe to Youtube Channel Cybereveal"
+rm -rf $HOME/MetaXploit

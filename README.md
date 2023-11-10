@@ -14,8 +14,8 @@ git clone https://github.com/Anonycodexia/MetaXploit
 
 cd MetaXploit
 
-chmod +x metaxploit.sh
+chmod +x metasploit.sh
 
-bash metaxploit.sh
+bash metasploit.sh
 
 # Happy Hacking 😅
